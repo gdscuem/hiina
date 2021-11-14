@@ -2,8 +2,8 @@
 
 <img width="1921" alt="Hina - Artboard 21@2x" src="https://user-images.githubusercontent.com/50568515/141701692-9f2110b5-d91b-42cb-b343-e83befe005e8.png">
 
-`Hiina - The Community Alphabet` is geometric typeface that was created when we were rebranding from DSC UEM to Google Developer Student Club UEM, and we were developing a lot of new and exciting projects and we were thinking about how we can bring it all together and create a unique visual language
-Sowe started designing a logo for our newsletter, was inspired by the result, and started working to expand the style and build an entire alphabet.
+`Hiina - The Community Alphabet` is a geometric typeface that was created when we were rebranding from DSC UEM to Google Developer Student Club UEM, and we were developing a lot of new and exciting projects and we were thinking about how we can bring it all together and create a unique visual language
+So we started designing a logo for our newsletter, was inspired by the result, and started working to expand the style and build an entire alphabet.
 
 ## The Alphabet
 
@@ -24,6 +24,7 @@ Our logos are made using this alphabet
 <img width="1401" alt="Hina - Artboard 25 copy@2x" src="https://user-images.githubusercontent.com/50568515/141702338-4fffc452-4a28-4afe-9357-9c2496614258.png">
 
 ###
+Download [Here](https://github.com/gdscuem/hiina/blob/main/Source/Hiina%20-%20The%20Community%20Alphabet.zip)
 
 Made with 💙 by [Mister Paps](https://www.instagram.com/themisterpaps/) & GDSC UEM 
 <p align="center">
